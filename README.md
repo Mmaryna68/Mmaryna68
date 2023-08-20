@@ -1,7 +1,7 @@
 ### Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+To+My+Github+Profile..)](https://git.io/typing-svg)
 <div id="header" align="start">
-  <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://media4.giphy.com/media/LWJ7cKyiWPCnVyuAhT/200w.gif?cid=790b7611jzg3xweg1v703bjqqh3t6b5o4t5tcjrfcsgeqpos&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
 </div>
 
  I am Maryna and I’m a Frontend developer from UK 👩🏽‍💻
