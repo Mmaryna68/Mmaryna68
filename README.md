@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning React and JS improvements
-- 👯 I’m open to collaboration and new interesting ideas
+- 👯 I’m open to collaboration and new project ideas
 - 💬 Ask me about tech, blogging, painting, yoga
 - 📫 How to reach me: <a href="maryov688@gmail.com" target="blank">E-mail</a>
 
